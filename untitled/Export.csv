@@ -1,0 +1,677 @@
+3980,'Slave 側 MinSpanアドレス,megatitle
+3981,'温度単位,megatitle
+3982,"""荷札情報取り込み抜け　No.""",megatitle
+3983,"""MasterSlave "", intPS * 6 + 1, 6) & ""Ｗｏｒｋチェック""",megatitle
+3984,'---------- パラメータ客先指定に合わせて設定,megatitle
+3985,'---------- カプセルNo読み込み,megatitle
+3986,'パラメ－タ設定無事終了,megatitle
+3987,""" G"")                                                    'メモリ単位"" G""",megatitle
+3988,'組合せ管理番号 画面非表示,megatitle
+3989,"""ＭＳコード""",megatitle
+3990,"""LINENAME""                                           'V1.32 固定を止める　:   PmDt$(L) = ""EJX""",megatitle
+3991,"""IniFileアンプ部番チェックを行わない""",megatitle
+3992,'   1.00     2016.04.08  M.Otawa        DRS新規作成,megatitle
+3993,"""パラメ－タ設定イニシャライズ""",megatitle
+3994,"""ゼロ調ボリュ－ムを’みぎ ’へ回してください。""",megatitle
+3995,'0000000000004000   圧力　ZERO調整量　範囲外圧力　  ZERO調整量　範囲外,megatitle
+3996,"""コピーチェック Amp""",megatitle
+3997,'自主チェック,megatitle
+3998,"""ＭＳ ゴシック""",megatitle
+3999,'0002000000000000   Rセンサ発信停止                 Rセンサ発信停止,megatitle
+4000,"""ＤＰ ＨＲＶ 設定異常""",megatitle
+4001,'---------- 電源が入っていた場合,megatitle
+4002,'SLAVE レンジ100%,megatitle
+4003,"""目盛""",megatitle
+4004,'---------- WriteProtect 確認(Enabelであること),megatitle
+4005,'==================== Slave 側 閾値,megatitle
+4006,"""温度補正時の荷札と一致""",megatitle
+4007,'---------------------------    '機種設定,megatitle
+4008,"""Dレンジで70MPaカプセルは　DP_URL書き換え""",megatitle
+4009,'圧力単位設定,megatitle
+4010,'通信のリトライ回数　iniFileから変更出来るようにする,megatitle
+4011,'導圧管レス方向,megatitle
+4012,'01と出力モード指定なしはLinear,megatitle
+4013,"""パラメータ値  "" & Format(WkcP.MinSP) & "" kPa""",megatitle
+4014,'---------- MinSpanの値を見つかった場合は設定。（見つからなかった場合、設定は飛ばす。）,megatitle
+4015,'0040000000000000   G/A信号異常                     G/A信号異常,megatitle
+4016,'0000000400000000   つまり診断異常,megatitle
+4017,'カプセル補助情報　ガスケット材質,megatitle
+4018,'0000000020000000   圧力　HI ALARM                  圧力　HI ALARM,megatitle
+4019,'0000000080000000   差圧　HI ALARM,megatitle
+4020,'パラメ－タ確認フレ－ムクリア,megatitle
+4021,"""Descriptor指定が１６文字を越える。""",megatitle
+4022,"""目   盛""",megatitle
+4023,'---------- 出力モード確認（親の指定事項）,megatitle
+4024,'音声:「左へ回してください」,megatitle
+4025,'* #! Input          -: Dp0$ 　：チェックするレンジの0％                      :-             *',megatitle
+4026,"""J"", CoefkPa, Coefw, CoefBai, CoefHw, CoefHBai, ErrT) '水柱基準温度は4℃固定。""J""",megatitle
+4027,"""特注製品ではないのに"" + vbCrLf + ""特注番号がついている。""",megatitle
+4028,'0100000000000000   アンプEEPROM異常バージョン不正  アンプEEPROM異常バージョン不正,megatitle
+4029,"""Descriptor指定が使用禁止文字を使用。""",megatitle
+4030,'B22 kPa換算,megatitle
+4031,"""材　質　　コード　""",megatitle
+4032,'桁カットの数字がゼロか？,megatitle
+4033,"""----- Master側フラグ設定 -----""",megatitle
+4034,"""----- MScode分解 -----""",megatitle
+4035,'表示選択,megatitle
+4036,'カプセル補助情報　フランジサイズ,megatitle
+4037,"""ＭＳ Ｐゴシック""",megatitle
+4038,'出力段結果を保存するための変数,megatitle
+4039,"""出力モード異常""",megatitle
+4040,'---------- MinSpan値,megatitle
+4041,'---------- HIGH RESOLUTION表示,megatitle
+4042,"""EJX 客先仕様にパラメ－タセット""",megatitle
+4043,"""I30WA        "", ComData):         If ComData.iret <> 0 Then GoTo ParainJerr   '実目表示単位  """"",megatitle
+4044,'ManCalrevはクリアする。,megatitle
+4045,'---------- EJX ねじ込み6□□Dレンジのカプセルのみ書き換え（【特注】EJX70MPaのカプセルをNEWEJAとして出荷する場合は、書替え除外）,megatitle
+4046,'530/630 は圧力計,megatitle
+4047,'0000200000000000   カプセル温度仕様範囲外          カプセル温度仕様範囲外,megatitle
+4048,'レンジ欄の指定がない場合ここで止める。,megatitle
+4049,'オ－ダＮｏ,megatitle
+4050,"'==================== Master,Slave個々のレンジ設定",megatitle
+4051,"""DISP小数点位置マイナス""",megatitle
+4052,'メモリ　係数,megatitle
+4053,'音声：「」,megatitle
+4054,'カプセル補助情報　フランジ材質,megatitle
+4055,"""Pスタイル""",megatitle
+4056,""""" Then Msg$ = ""/CA 無しでMessageの指定有りで仕様不備""",megatitle
+4057,'カプセル補助情報　DFS材質,megatitle
+4058,'------------------------------ Wk□.SPMAX 決定後に位置すること,megatitle
+4059,'スタイルＮｏ,megatitle
+4060,'桁数を合わせた仮のレンジ,megatitle
+4061,'---------- SlaveのMinSpan設定無しモードが有効の場合,megatitle
+4062,'カプセル補助情報　DFS個数,megatitle
+4063,"""パラメータ設定終了""",megatitle
+4064,'書き込む工程記号が大文字の場合は,megatitle
+4065,'0000000000000100   LCD表示仕様範囲外,megatitle
+4066,'---------- パラメータ初期化,megatitle
+4067,'   マニュアル書き込みの部分,megatitle
+4068,'   製品がおかしいのでおしりをスペ－スで埋める。,megatitle
+4069,'---------- インデックスNo,megatitle
+4070,"""0 - 100 % 指定""",megatitle
+4071,"""ＤＰ ＬＲＶ 設定異常""",megatitle
+4072,'0001000000000000   逆演算異常                      逆演算異常,megatitle
+4073,'最終需要先,megatitle
+4074,'単位書き込み,megatitle
+4075,'MSコ－ド 5,megatitle
+4076,""" abs"")                                                  'メモリ単位"" abs""",megatitle
+4077,'* #! Output         -: Spoint ：少数点位置                                   :-             *',megatitle
+4078,'レンジ　０％,megatitle
+4079,'Slave  MinSpan設定有りモードとする,megatitle
+4080,"""Messageに書き込み禁止文字が入っている。""",megatitle
+4081,'NGも履歴管理で保存,megatitle
+4082,'---------- 出力モードがSQRT以外は,megatitle
+4083,"""MinSpan設定""",megatitle
+4084,'---------- MinSpanの値を見つける。異常があればここで終了。,megatitle
+4085,'LCD 単位,megatitle
+4086,'温度基準,megatitle
+4087,"""アンプ部番と所要量のチェックを行う""",megatitle
+4088,'---------- MinSpan設定有りモード,megatitle
+4089,'02はSqrt,megatitle
+4090,'出力段測定用リレー,megatitle
+4091,'MinSpanアドレス書き込み照合,megatitle
+4092,'---------- profiフラグがオフの時は、profiボタンを表示しない,megatitle
+4093,'0000000004000000   カプセル温度 LO ALARM           カプセル温度 LO ALARM,megatitle
+4094,'   最終桁チェック,megatitle
+4095,'メッセ－ジ,megatitle
+4096,'---------- リスタート,megatitle
+4097,'差圧のLRV  C21では読み取れないことがある,megatitle
+4098,"""データ転送""",megatitle
+4099,'メッセージボックスの返り値,megatitle
+4100,'---------- MinSpan設定,megatitle
+4101,'hart通信で桁落ちしてしまうため,megatitle
+4102,"""ダンピング""",megatitle
+4103,'========== スタート時、アラームチェック,megatitle
+4104,'Falseでは書き込みできないため,megatitle
+4105,"""MSコ－ド書き込み照合エラ－"", vbOKOnly, ""Error""",megatitle
+4106,'---------- 荷札番号,megatitle
+4107,"""CalrevSlave異常終了"", vbOKOnly, ""Error""",megatitle
+4108,'---------- 差圧レンジのみレンジ設定範囲内かチェックするため下記変数へ代入,megatitle
+4109,"""SLAVE コピーチェックエラー"" & vbCrLf & ""START: "" & WkcS.CPchkS & vbCrLf & ""END    : "" & Cp$, vbOKOnly, ""Error""",megatitle
+4110,"""パラメ－タ設定開始""",megatitle
+4111,'ManCALREVに設定されている文字列い１文字ずつAsccodeで切り出し,megatitle
+4112,"""ＬＣＤのスイッチ　チェック　ＯＫ！""",megatitle
+4113,'---------- カプセル補助情報設定 Ms.□をセットしておく,megatitle
+4114,'0000000010000000   圧力　LO ALARM                  圧力　LO ALARM,megatitle
+4115,"""EJXパラメ－タ設定""",megatitle
+4116,'×10**2 → 1E2 等,megatitle
+4117,'---------- 書き込みスタートフラグ　ON,megatitle
+4118,'---------- カプセル工程抜けチェック,megatitle
+4119,'SLAVE レンジ単位,megatitle
+4120,'MSコ－ド 4,megatitle
+4121,'---------- Tag指定に使用禁止文字がある場合は製品内部に設定しないだけで流す,megatitle
+4122,'表示値の少数点以下桁数,megatitle
+4123,"""パラメータ確認""",megatitle
+4124,'---------- アンプ所要量チェック,megatitle
+4125,'メッセ－ジの色を緑に。。。,megatitle
+4126,"'---------- カプセルコードが""Z""でなければ",megatitle
+4127,"""最大""",megatitle
+4128,"""32000を超えている""",megatitle
+4129,"""Sコード""",megatitle
+4130,'圧力ダンピング,megatitle
+4131,'作業終了後、黄色消灯,megatitle
+4132,'---------- LCDスイッチチェック有り　または　B10書替え有り　の場合,megatitle
+4133,'レンジ　特性,megatitle
+4134,"""Slave /D□は不可""",megatitle
+4135,'B32 kPa換算,megatitle
+4136,'---------- 組合せ製品,megatitle
+4137,'---------- MScode頭6文字,megatitle
+4138,'ソフトウエアタグＮｏ,megatitle
+4139,"""MScodeがEJX以外""",megatitle
+4140,"""分"" + Str((Timer - Val(TimeDisp.Caption)) Mod 60) + ""秒""",megatitle
+4141,'チェック用CALREVのおしりが前工程かチェック,megatitle
+4142,""""" Then Msg$ = ""タイプが選択できない。""",megatitle
+4143,'---------- フラグ設定,megatitle
+4144,'---------- パラメータ書き込み確認,megatitle
+4145,'1000000000000000   カプセルEEPROM異常              カプセルEEPROM異常,megatitle
+4146,"""各種チェック""",megatitle
+4147,'---------- 差圧 閾値,megatitle
+4148,"""SI単位""",megatitle
+4149,"""処理を強制終了しますか？"", vbOKCancel, ""終了""",megatitle
+4150,'B30 kPa換算,megatitle
+4151,'---------- 通信タイプ決定,megatitle
+4152,'---------- アドバンスト診断(/DG6) 設定と解除,megatitle
+4153,'温度補正で使用した荷札が変わっていないかをチェックする。,megatitle
+4154,"""スタイルNo設定異常。""",megatitle
+4155,'0000000800000000                                   Slaveレビジョン不正,megatitle
+4156,'カプセルNo分解の構造体クリア変数,megatitle
+4157,"""0000"" Then Msg$ = ""つまり診断設定になっている"" & vbCrLf & Dev_Opts$ & "":""",megatitle
+4158,'/DG6用初期値パラメータ保管用配列クリア,megatitle
+4159,'エラー処理追加,megatitle
+4160,'Tag欄から８文字持ってくる,megatitle
+4161,"""差圧MinSpan 設定内容確認""",megatitle
+4162,"""DP_Min反映異常""",megatitle
+4163,"""クリア""",megatitle
+4164,"""【"" & Format(i, ""00"") & ""】内部:"" & Left(ComData.Ndat & Space(12), 12) & ""  登録:""",megatitle
+4165,'出力段規格値　下限,megatitle
+4166,"""目盛係数設定異常 """,megatitle
+4167,"""少数点位置異常""",megatitle
+4168,'0000000040000000   差圧　LO ALARM,megatitle
+4169,'実目　小数点位置,megatitle
+4170,"""0001"" Then Msg$ = ""つまり診断設定設定不可"" & vbCrLf & Dev_Opts$ & "":""",megatitle
+4171,'---------- 新ROMから,megatitle
+4172,'---------- SoftTag指定に使用禁止文字がある場合は仕様不備,megatitle
+4173,'自分の工程記号は無視,megatitle
+4174,"""出力モード数字以外の指定:"" & Text(Nf.Pt_SqMd).Text, vbOKOnly, ""Error""",megatitle
+4175,'SI単位縛りクリア,megatitle
+4176,'エラーメッセージ,megatitle
+4177,"""Sスタイル""",megatitle
+4178,'---------- 計番設定,megatitle
+4179,'---------- Master側設定確認,megatitle
+4180,'ＬＣＤ単位(文字列),megatitle
+4181,'音声:「スイッチを押してください」,megatitle
+4182,"""T ： 入出力補正抜け""",megatitle
+4183,'----------- 登録されているパラメータ初期値の健全性を確認,megatitle
+4184,'Masterレンジ単位,megatitle
+4185,"""前工程チェック""",megatitle
+4186,'ダミー荷札はチェックしない,megatitle
+4187,'ゼロ調ボリュ－ムチェック,megatitle
+4188,'------------------------------------------------------------------< i=157 【注】増える場合はBHCxのMaxを変更すること,megatitle
+4189,'---------- 音声:「パラメータ設定終了。」,megatitle
+4190,'作業者に作業をさせるため黄色点灯,megatitle
+4191,'MSコ－ド 6,megatitle
+4192,'客先指定に小数点がなかった場合,megatitle
+4193,'---------- WriteProtect スイッチチェック,megatitle
+4194,'SoftTag欄がヌルだったら,megatitle
+4195,"""前工程チェック= """,megatitle
+4196,'B20 kPa換算,megatitle
+4197,"""ＬＣＤ押しボタンチェック異常"", vbOKCancel, ""再チェック：OK　終了：Cancel""",megatitle
+4198,"""レンジ""",megatitle
+4199,'0000004000000000   圧力設定レンジ外,megatitle
+4200,"""再・パラメータ設定を行います。前回のバーコードNo．""",megatitle
+4201,"""温度基準数字以外の指定:"" & Text(Nf.Pt_TmSt).Text, vbOKOnly, ""Error""",megatitle
+4202,'Slave 用カプセルNo分解,megatitle
+4203,'---------- パラメータ設定正常終了,megatitle
+4204,"""Slave MinSpan設定します。""",megatitle
+4205,"""小数点以下の指定："" & Udp & ""桁""",megatitle
+4206,"""アンプNo""",megatitle
+4207,'ダイレクトマウント型,megatitle
+4208,"""EJXパラメ－タ設定結果""",megatitle
+4209,"""."", """"))) > 32000 Then Msg$ = ""客先指定100％>32000""",megatitle
+4210,"""ＬＣＤチェック異常""",megatitle
+4211,"""ＬＲＶ 設定異常""",megatitle
+4212,'0000100000000000   アンプ温度センサ異常仕様範囲外,megatitle
+4213,"""レンジ指定該非""",megatitle
+4214,'0000000000040000   圧力　LRV 範囲外圧力　          LRV 範囲外,megatitle
+4215,"""差圧レンジ""",megatitle
+4216,"""スタ－ト""",megatitle
+4217,'ﾀﾞﾝﾋﾟﾝｸﾞ 客先指定の設定,megatitle
+4218,'表示 ＨＲＶ,megatitle
+4219,'0000000000080000   差圧　ZERO調整量　範囲外,megatitle
+4220,'0020000000000000   Cセンサ発信停止                 Cセンサ発信停止,megatitle
+4221,"""Master 終了時のCALREV= """,megatitle
+4222,"""S圧""",megatitle
+4223,"""無""",megatitle
+4224,'カプセル補助情報　DFS封入液材質,megatitle
+4225,"""スタ－トボタン待ち""",megatitle
+4226,'固定(実線),megatitle
+4227,'Uncal Range設定,megatitle
+4228,"""Writeprotectスイッチ Disable""",megatitle
+4229,"""CALREVチェック　"" & strCalRev & ""←""",megatitle
+4230,'カプセル補助情報　ベントプラグ材質,megatitle
+4231,'両方,megatitle
+4232,'チェックできない通信方式,megatitle
+4233,'0000000002000000   Variableシミュレーション実行中,megatitle
+4234,'SoftTag欄が入っていたら,megatitle
+4235,'---------- UNCALの場合レンジ決定,megatitle
+4236,'バーンアウト出力,megatitle
+4237,'* #! Discription    -: 客先レンジの少数点位置決定(差圧、静圧、温度)          :-             *',megatitle
+4238,'URL　　アドレス書き込み照合,megatitle
+4239,'---------- XJNo設定,megatitle
+4240,'タグＮｏ,megatitle
+4241,"""アドバンスト診断パラメータ不一致"" & vbCrLf & ComData.Ndat & ""<>"" & DG6param(i) & ""【"" & Format(i) & ""】""",megatitle
+4242,'右揃え,megatitle
+4243,'Master側 Type設定　通常とはByte数が違う,megatitle
+4244,'---------- BパラメータをkPa単位に設定しREAD,megatitle
+4245,'カプセル補助情報　フランジタイプ,megatitle
+4246,"""単位""",megatitle
+4247,"""カプセル　コード　""",megatitle
+4248,"""MasterSlave "", intPS * 6 + 1, 6) & ""タイプ設定""",megatitle
+4249,'／ＡＬ測定用リレー,megatitle
+4250,"""タグNo.""",megatitle
+4251,'---------- CalRevチェックの文字列,megatitle
+4252,'書き込む工程記号の大文字or小文字と一致したらループを抜ける,megatitle
+4253,'データベース保存用,megatitle
+4254,"""/HAC"") = True Or InStr(strDm$, ""A"") <> 0 Then strCalchk$ = ""A : 入出力補正/HAC抜け""",megatitle
+4255,'---------- スケールが　0～100 の場合,megatitle
+4256,'0080000000000000   F1異常                          F1異常,megatitle
+4257,'Vデバッグモードは後工程へ流出させない,megatitle
+4258,"""ＬＣＤ　　コード  """,megatitle
+4259,"""索引No.""",megatitle
+4260,'Master用,megatitle
+4261,'---------- WriteParam Master/Slaveに行う(0)　ここで行うのはMinSpanやSP_URLなど係数で書いたものを覚えこますため。削除不可。,megatitle
+4262,'客先指定レンジのスパン,megatitle
+4263,'導圧管接続方向 NORMAL,megatitle
+4264,'スタイルNo,megatitle
+4265,'それ以外は出力モード異常とする,megatitle
+4266,'タイプ設定,megatitle
+4267,'Master側カプセルNo分解,megatitle
+4268,'LCD 表示モ－ド,megatitle
+4269,'0200000000000000   アンプEEPROM異常                アンプEEPROM異常,megatitle
+4270,'小数点を除いて桁を作る,megatitle
+4271,'0800000000000000   カプセルEEPROMバージョン不正    カプセルEEPROMバージョン不正,megatitle
+4272,"""アドレス　値　"" & Format(Val(ComData.Naux) * sinDmmy) & "" kPa""",megatitle
+4273,"""数字以外が混じっている。""",megatitle
+4274,'---------- MinSpanのアドレス,megatitle
+4275,"""Slave MinSpan設定しますか？"", vbOKCancel, ""【特注】 ﾚﾝｼﾞ欄 """"Z"""" → """""" & CapS.cRange & """""" として処理""",megatitle
+4276,'×10000 → 10000 等,megatitle
+4277,"""通信ポ－トがオ－プンできません。"", vbOKOnly, ""Wait""",megatitle
+4278,"""差圧MinSpan値無し""",megatitle
+4279,'ＬＣＤ上限値,megatitle
+4280,"""Slave /C□は不可""",megatitle
+4281,'PlasmaOrderNo  画面非表示,megatitle
+4282,'----------- パラメータ初期値書き込み,megatitle
+4283,'リミット以上の場合,megatitle
+4284,'strTempNo追加,megatitle
+4285,""""" Then Msg$ = ""/CA 無しでDescriptorの指定有りで仕様不備""",megatitle
+4286,"""Slave MSコード分解異常"", vbOKOnly, ""Error""",megatitle
+4287,'---------- MinSpanアドレス,megatitle
+4288,'少数点以下の桁数,megatitle
+4289,'---------- DeviceID 読み込み,megatitle
+4290,'0010000000000000   C側deltaT回路故障,megatitle
+4291,'差圧ゼロ調量アドレス,megatitle
+4292,"""設定桁が不一致""",megatitle
+4293,'チェック用CALREV,megatitle
+4294,'ＭＳコ－ド,megatitle
+4295,'絶対値の大きい値　ch$,megatitle
+4296,'小数点位置,megatitle
+4297,"""IniFileアンプ部番チェックを行う""",megatitle
+4298,"""デ－タ転送失敗 : """,megatitle
+4299,'---------- /C[123]により、出力リミット値設定,megatitle
+4300,'========== エンド時、アラームチェック,megatitle
+4301,'/ALチェック結果を保存するための変数,megatitle
+4302,'---------- 通常品,megatitle
+4303,"""MasterSlave "", intPS * 6 + 1, 6) & vbCrLf & Msg$, vbOKCancel, ""処理中止：OK　続行：CANCEL""",megatitle
+4304,'---------- 診断判定閾値初期値書き込み,megatitle
+4305,"""増減方向：""",megatitle
+4306,"'""ＱＩＣデ－タ転送""",megatitle
+4307,"""Master MinSpan設定しますか？"", vbOKCancel, ""【特注】 ﾚﾝｼﾞ欄 """"Z"""" → """""" & CapP.cRange & """""" として処理""",megatitle
+4308,"'---------- Description , Message (/CA)の設定",megatitle
+4309,"'出力ﾓ-ﾄﾞ  LIN,LIN",megatitle
+4310,'温度スクリーニングは無視,megatitle
+4311,'----------- SW HIGH/LOW チェック,megatitle
+4312,"""ボリュ－ムチェック　ＯＫ！""",megatitle
+4313,'---------- B/Hの電源配線を使用する,megatitle
+4314,"""通信不可：電源が入っていない?"", vbOKOnly, ""Error""",megatitle
+4315,'hartの係数はBrainの係数に掛けたもの,megatitle
+4316,'Masterレンジ0%,megatitle
+4317,'センサNo読み込み,megatitle
+4318,'リミット下限値,megatitle
+4319,'単位,megatitle
+4320,'---------- 差圧レンジ設定,megatitle
+4321,"""計器番号""",megatitle
+4322,'510/610 は絶対圧,megatitle
+4323,'Readのみの場合はここで抜ける,megatitle
+4324,'---------- バーコードNoに設定あり,megatitle
+4325,'0000000100000000                                   Slaveモジュール異常,megatitle
+4326,'---------- アンプ工程履歴確認,megatitle
+4327,"""目盛係数設定異常 ×なし""",megatitle
+4328,"""S計番""",megatitle
+4329,'垂れ流し画面リセット,megatitle
+4330,'---------- 目盛設定,megatitle
+4331,'緑のランプ点灯,megatitle
+4332,"""差圧目盛""",megatitle
+4333,'差圧ゼロ調クリア（調要にはないが、ゼロ調ボリュームチェックで値が変わるため）,megatitle
+4334,"""組合せ""",megatitle
+4335,""""" Then Call MsgSign(Msg$ + ""実目設定不可"", vbOKOnly, ""Error""",megatitle
+4336,"""MasterSlave "", intPS * 6 + 1, 6) & "" MinSpan設定無しモードは対象外。""",megatitle
+4337,"""Slave側CalRev書き込み照合Error""",megatitle
+4338,'カプセル補助情報　DFSタイプ,megatitle
+4339,'透明,megatitle
+4340,"""パラメータ値  "" & Format(strDmmy2) & "" kPa""",megatitle
+4341,'実線,megatitle
+4342,"""Pレンジ""",megatitle
+4343,""""" Then Msg$ = ""メモリ指定異常　""",megatitle
+4344,"""目盛係数設定異常 <> 10**?""",megatitle
+4345,'---------- 封入物　温度補正で使用した荷札情報と照合,megatitle
+4346,"""MasterSlave "", intPS * 6 + 1, 6) & "" "" & Mid(""Start End   "", (PointFlg - 1) * 6 + 1, 6) & ""アラームチェック""",megatitle
+4347,'---------- WriteParam Master/Slaveに行う(0),megatitle
+4348,'ゼロ調量がクリアされているかチェック,megatitle
+4349,'SLAVE レンジ0%,megatitle
+4350,'Slave側 カプセルNo分解,megatitle
+4351,'------------------------------ 親の指定事項から取得,megatitle
+4352,'温度スクリーニング失敗も無視,megatitle
+4353,"""パラメータ設定終了"", vbOKOnly, ""確認""",megatitle
+4354,'パラメ－タ確認フレ－ム,megatitle
+4355,'出力上限リミット,megatitle
+4356,'---------- バーコードNoをクリア,megatitle
+4357,"""モデル　　コード　""",megatitle
+4358,'メッセージクリア,megatitle
+4359,"""カプセルがNewEJA？""",megatitle
+4360,"""電源""",megatitle
+4361,'バ－コ－ドＮｏ,megatitle
+4362,'％表示分解能,megatitle
+4363,"""読込み値：""",megatitle
+4364,'FAM3処理スキップ,megatitle
+4365,'ダンピング指定,megatitle
+4366,'ゼロ調ボリュームチェックなし,megatitle
+4367,'0000000000000400                                   Slaveモジュール固定値,megatitle
+4368,"""カプセルNo""",megatitle
+4369,'ＳＱＲＴ有無,megatitle
+4370,'---------- 小数点以下1桁以内はデフォルト値のまま出荷,megatitle
+4371,'Master側work状態,megatitle
+4372,'8000000000000000   Cセンサ周波数異常               Cセンサ周波数異常,megatitle
+4373,'2000000000000000   カプセル温度センサ異常          カプセル温度センサ異常,megatitle
+4374,"""パラメータ設定完了フラグ リセット""",megatitle
+4375,"""----- Slave側フラグ設定 -----""",megatitle
+4376,'V1.24 処理が終わる時間を残したいので後ろに持ってきた,megatitle
+4377,"""MasterSlave "", intPS * 6 + 1, 6) & ""アンプ前工程抜け""",megatitle
+4378,'---------- 温度基準確認（親の指定事項）,megatitle
+4379,'差圧レンジ0％,megatitle
+4380,'/DG6用パラメータ初期値,megatitle
+4381,'途中で異常があった場合は書き込んであるバーコードNoはクリアする。,megatitle
+4382,'圧力計,megatitle
+4383,"""パラメ－タ設定異常終了""",megatitle
+4384,""""" Then Msg$ = MsPt.Model & ""用【"" & Format(i) & ""】初期値が存在しない""",megatitle
+4385,'差圧レンジ100％,megatitle
+4386,'検査中フラッグ設定ON,megatitle
+4387,'---------- ゼロ調ボリューム後のWriterParamは Master側のみ(1),megatitle
+4388,'書き込む工程記号が存在する場合、,megatitle
+4389,'B21 kPa換算,megatitle
+4390,"""最終需要先""",megatitle
+4391,'温度で使用した荷札とパラメータ設定の荷札が違っていた場合はMScodeで比較する。,megatitle
+4392,'差圧のURV　C22では読み取れないことがある,megatitle
+4393,'静圧ゼロ調整量範囲外、静圧URL設定異常、静圧SPAN設定異常,megatitle
+4394,"""MasterSlave "", intPS * 6 + 1, 6) & ""カプセル側 読み込み""",megatitle
+4395,'0000000000008000   圧力　SPAN調整量　範囲外圧力　  SPAN調整量　範囲外,megatitle
+4396,"""スタート時コピーチェック異常："" & Cp$, vbOKCancel, ""中止：OK　続行：CANCEL""",megatitle
+4397,"""MasterSlave "", intPS * 6 + 1, 6) & "" 客先仕様にパラメ－タセット""",megatitle
+4398,'---------- DeviceRevision 読み込み,megatitle
+4399,'---------- 客先指定に合わせてパラメータ設定,megatitle
+4400,'---------- 出力モード設定,megatitle
+4401,""""" Then Msg$ = ""DispPoint 0%異常""",megatitle
+4402,'出力段規格値　上限,megatitle
+4403,"""DISP単位に""""/""""が２こ""",megatitle
+4404,'無線と押しボタンLCDの組み合わせは上でエラーとしているのでここは通らない。,megatitle
+4405,'フローチャートで決まった桁数,megatitle
+4406,"""デバイスID : """,megatitle
+4407,'---------- バーコード番号セット,megatitle
+4408,'ファイルが存在する場合はヘッダーは書かない。,megatitle
+4409,'---------- 仕様不備,megatitle
+4410,'ＬＣＤ係数,megatitle
+4411,'---------- SignalFormからShowされているためここでUnloadするとエラーとなる。,megatitle
+4412,'0000000001000000   Statusシミュレーション実行中,megatitle
+4413,'オ－ダNo,megatitle
+4414,'回路で使用している抵抗値,megatitle
+4415,'メモリ　単位,megatitle
+4416,"""出力ﾓｰﾄﾞ""",megatitle
+4417,"""差圧""",megatitle
+4418,"""D : 温度補正抜け""",megatitle
+4419,'MSコ－ド 3,megatitle
+4420,'なにも指定が無いときは　Pa単位,megatitle
+4421,'整数型に,megatitle
+4422,"""ソフトダンピング数字以外の指定:"" & Text(Nf.Damp).Text, vbOKOnly, ""Error""",megatitle
+4423,"""スタイルNoの指定が異常です。""",megatitle
+4424,'ＬＣＤ下限値,megatitle
+4425,'0400000000000000   アンプ温度センサ異常            アンプ温度センサ異常,megatitle
+4426,"""レンジ欄の指定なし。""",megatitle
+4427,"""Error 中止：OK　続行：CANCEL""",megatitle
+4428,"""電源OFF/ON""",megatitle
+4429,"""書込み値：""",megatitle
+4430,"""オ－バフロ－""",megatitle
+4431,'===================================================================================== ここでパラメータ書き込み終了,megatitle
+4432,'isAlive=True 削除,megatitle
+4433,"""親コード""",megatitle
+4434,"""********** Slave MScode分解 ************""",megatitle
+4435,'---------- スタート時コピーチェックは何かを書き込む前に行うこと,megatitle
+4436,"""特注製品なのに"" + vbCrLf + ""特注番号がついていない。""",megatitle
+4437,'Slave 側 URL　　アドレス,megatitle
+4438,'---------- 設定しないを選択,megatitle
+4439,'メモリ　特性,megatitle
+4440,'---------- 終了時CopyChk   NG:isAlive=False,megatitle
+4441,'------------------------------ Masterの指定事項から取得,megatitle
+4442,'----------荷札番号 READ----------,megatitle
+4443,'スタ－ト時のコピ－チェック保存,megatitle
+4444,'圧力計か差圧計を設定,megatitle
+4445,'差圧MinSpanアドレス（Master-Slave間）,megatitle
+4446,"""Sレンジ""",megatitle
+4447,"""Messageの指定が３２文字を越えている。""",megatitle
+4448,"""親計番""",megatitle
+4449,'0000000200000000                                   モジュール間通信異常,megatitle
+4450,"""バーコードヒット待ち""",megatitle
+4451,'MSコード,megatitle
+4452,'リミット上限値,megatitle
+4453,'通信異常のためこのまま終了,megatitle
+4454,'レンジ　単位,megatitle
+4455,'* #! 　　　　　　　　　Dp100$ ：チェックするレンジの100％                    :-             *',megatitle
+4456,'一番最後にバーコードNoセット,megatitle
+4457,'0000000000400000   差圧　URV 範囲外,megatitle
+4458,'---------- カプセル側とMSコードのモデルが一致するか確認（特注でEJXのカプセルB10をEJAに書き換える場合がある。書換えが完了しているか確認するためチェックを追加）,megatitle
+4459,'音声:「右へ回してください」,megatitle
+4460,"""ＬＣＤ確認＆ＬＣＤのスイッチチェック""",megatitle
+4461,'差圧 　MinSpan設定有りモードとする,megatitle
+4462,'電源ON (Brain/hartの配線を使用),megatitle
+4463,'---------- 親のMinSpan設定無しモードが有効の場合,megatitle
+4464,'---------- 共通チェック,megatitle
+4465,"'---------- 'MSコードレンジ欄が""Z""の場合のみ、MinSpanを設定するか確認",megatitle
+4466,"""温度基準""",megatitle
+4467,'温度設定単位 deg C,megatitle
+4468,'0000000000020000   圧力　URV 範囲外圧力　          URV 範囲外,megatitle
+4469,"""メモリ指定異常 0%=100%""",megatitle
+4470,"""Pコード""",megatitle
+4471,"""P圧""",megatitle
+4472,"""終了""",megatitle
+4473,'---------- アンプNo読み込み,megatitle
+4474,"""最終 Master Calrev　""",megatitle
+4475,'LCD出力1,megatitle
+4476,'通信のスピード調節　iniFileから変更出来るようにする,megatitle
+4477,'---------- カプセルNo分解,megatitle
+4478,'NGメッセージ表示,megatitle
+4479,'ダンピング,megatitle
+4480,'---------- SoftRev 読み込み,megatitle
+4481,"""強制終了中・・・""",megatitle
+4482,'一時的にTrueにしたものをFalseへもどす。,megatitle
+4483,"""/DG6 初期値未登録""",megatitle
+4484,'少数点が存在しなければ。,megatitle
+4485,'V1.32 add LineName画面表示,megatitle
+4486,"""DPMinSpan係数 : "" & strRange & ""レンジで決定""",megatitle
+4487,"""アンプ部番""",megatitle
+4488,'通信処理スキップ,megatitle
+4489,'ｵﾌ固定,megatitle
+4490,'DRSは1固,megatitle
+4491,'出力下限リミット DRSは特殊,megatitle
+4492,'------------------------------ Slaveの指定事項から取得,megatitle
+4493,'Slave 側 Amp側COPYCHKアドレス　←岩田さん資料より,megatitle
+4494,"""DISP単位の先頭が""""/""""""",megatitle
+4495,'   3.11     2015.06.23  M.Otawa        組合せ製品対応。frmEJX からコピー,megatitle
+4496,'電源OFF,megatitle
+4497,'パラメータチェックなし,megatitle
+4498,"""所要量チェック対象外の通信:""",megatitle
+4499,'CANCELが押されたらパスワード入力画面となる,megatitle
+4500,'LCD %表示の分解能,megatitle
+4501,""""" Then Msg$ = ""カプセル補助情報設定不可""",megatitle
+4502,'---------- ソフトダンピング確認（Masterの指定事項）,megatitle
+4503,"""少数点位置異常:""",megatitle
+4504,'---------- MSコード設定,megatitle
+4505,""":強制終了""",megatitle
+4506,'0000000008000000   カプセル温度 HI ALARM           カプセル温度 HI ALARM,megatitle
+4507,"""索引No""",megatitle
+4508,'0000800000000000   差圧仕様範囲外,megatitle
+4509,"'DFS,レベル計の温度補正で使用した荷札番号",megatitle
+4510,"""Slave MinSpan設定しません。""",megatitle
+4511,'---------- Max値,megatitle
+4512,'---------- 異常状態,megatitle
+4513,'SI単位設定ON/OFF,megatitle
+4514,'---------- バーコードNoをクリアできたら、CALREVもクリア,megatitle
+4515,"""********** Master MScode分解 ************""",megatitle
+4516,"""特性""",megatitle
+4517,"""Slave  終了時のCALREV= """,megatitle
+4518,'LCD 実目表示の小数点位置,megatitle
+4519,"""Master MSコード分解異常"", vbOKOnly, ""Error""",megatitle
+4520,'B31 kPa換算,megatitle
+4521,'レベル計,megatitle
+4522,'iniFileで登録されているパラメータの数分配列をきる,megatitle
+4523,'アンプ部番を所要量でチェックするかどうか,megatitle
+4524,'---------- スタイルNo(B11)設定,megatitle
+4525,'LCD 係数,megatitle
+4526,"""メッセ－ジ""",megatitle
+4527,'Slave側 work状態,megatitle
+4528,'差圧単位,megatitle
+4529,"""BURNOUT :設定ミス　LOWではない。""",megatitle
+4530,'差圧小数点以下桁数,megatitle
+4531,'---------- MinSpan設定無しモード,megatitle
+4532,"""指定単位がありません。""",megatitle
+4533,'Slave 側 Cap側COPYCHKアドレス,megatitle
+4534,'0000400000000000   圧力仕様範囲外                  圧力仕様範囲外,megatitle
+4535,"""カプセルコ－ド　不一致""",megatitle
+4536,'Slave 側 Type設定　通常とはByte数が違う,megatitle
+4537,"""有""",megatitle
+4538,'Masterレンジ100%,megatitle
+4539,"""UNCAL指定でレンジが入っている。""",megatitle
+4540,"""Master MinSpan設定しません。""",megatitle
+4541,"""最小""",megatitle
+4542,"""MasterSlave "", intPS * 6 + 1, 6) & "" MinSpan 設定内容確認""",megatitle
+4543,"""SoftTagの指定に使用禁止文字が含まれている:""",megatitle
+4544,"""アドレス　値　"" & Format(Val(ComData.Naux) * DP_Max) & "" kPa""",megatitle
+4545,"""MasterSlave "", intPS * 6 + 1, 6) & "" "" & Mid(""Start End   "", (PointFlg - 1) * 6 + 1, 6) & ""コピーチェック""",megatitle
+4546,'---------- 正常状態,megatitle
+4547,"""ロングタグ指定文字数オーバー""",megatitle
+4548,"""DRSで/ALは不可。""",megatitle
+4549,'中央揃え,megatitle
+4550,"""パラメータ設定完了フラグセット""",megatitle
+4551,'カプセル補助情報の設定番号,megatitle
+4552,'---------- 差圧レンジのみレンジ設定範囲内かチェック,megatitle
+4553,'---------- 電源ON/OFFが必要,megatitle
+4554,'wparamが必要　:1　　必要なし　:0,megatitle
+4555,"""MasterSlave "", intPS * 6 + 1, 6) & "" パラメ－タ設定イニシャライズ""",megatitle
+4556,'0000008000000000   差圧設定レンジ外,megatitle
+4557,'差圧計,megatitle
+4558,'今のところ75,megatitle
+4559,'SoftTag欄から８文字持ってくる,megatitle
+4560,'検査中フラッグ設定OFF,megatitle
+4561,'親の計番,megatitle
+4562,"""有り""",megatitle
+4563,'CALREVに設定されている文字列い１文字ずつAsccodeで切り出し,megatitle
+4564,"""MasterSlave "", intPS * 6 + 1, 6) & "" アンプNo無し""",megatitle
+4565,'---------- 計番、MSコード設定,megatitle
+4566,'0000000000100000   差圧　SPAN調整量　範囲外,megatitle
+4567,'処理周期                                                                 'V1.33 DEVREV保存,megatitle
+4568,'---------- 荷札情報の構造体クリア,megatitle
+4569,'---------- カプセルコードチェック,megatitle
+4570,'---------- データーベース保存は行わず、書き込みチェックのみ行うもの,megatitle
+4571,"""つまり診断閾値""",megatitle
+4572,"""データ転送成功""",megatitle
+4573,"""ゼロ調ボリュ－ムを’ひだり ’へ回してください。""",megatitle
+4574,'Master MinSpan設定有りモードとする,megatitle
+4575,"""0;無 1;有  3;Uncalibration""",megatitle
+4576,"""スタイル""",megatitle
+4577,'---------- 機種設定（B10）,megatitle
+4578,"""アンプ部番と所要量チェック""",megatitle
+4579,'メモリ　０％,megatitle
+4580,'カ－ソル位置最後に設定,megatitle
+4581,'親の形名,megatitle
+4582,'WORK情報の構造体クリア変数,megatitle
+4583,'MSコード分解構造体クリア変数,megatitle
+4584,"'---------- レンジコード""Z""のフラグ",megatitle
+4585,'MSコ－ド 2,megatitle
+4586,"'---------- 単位が""%""",megatitle
+4587,'0000000000800000   差圧　LRV 範囲外,megatitle
+4588,"""終了処理中・・・""",megatitle
+4589,'---------- バーコードNoが書き込まれていた場合、クリア,megatitle
+4590,"""カプセル側とMSコードのモデルチェック""",megatitle
+4591,"""MasterSlave "", intPS * 6 + 1, 6) & "" アンプ部番チェックNGだがパスワード入力で通す""",megatitle
+4592,"""MasterSlave "", intPS * 6 + 1, 6) & "" カプセルNo無し""",megatitle
+4593,'0000000000010000   圧力　SPAN 範囲外圧力　         SPAN 範囲外,megatitle
+4594,'TagNoセット,megatitle
+4595,"""無し""",megatitle
+4596,"""ＳＱＲＴ指示でＬＲＶが０でない。""",megatitle
+4597,'何もしない,megatitle
+4598,"""ＨＲＶ 設定異常""",megatitle
+4599,'OKが押されたらそのまま終了,megatitle
+4600,"""MasterSlave "", intPS * 6 + 1, 6) & ""ＷＯＲＫパラメ－タ読み込み""",megatitle
+4601,"""BURNOUT :設定ミス HIGHではない。""",megatitle
+4602,'4000000000000000   Rセンサ周波数異常               Rセンサ周波数異常,megatitle
+4603,'組合せItemNo   画面非表示,megatitle
+4604,'処理周期デフォルト値設定,megatitle
+4605,'---------- MasterのMinSpan設定無しモードが有効の場合,megatitle
+4606,'---------- 差圧MinSpan設定,megatitle
+4607,'実目表示単位,megatitle
+4608,"""レンジ指定異常 0%=100%""",megatitle
+4609,'カプセル補助情報,megatitle
+4610,'0000000000000800   折れ線近似設定異常,megatitle
+4611,'表示 ＬＲＶ,megatitle
+4612,"""バーコードＮｏ登録異常""",megatitle
+4613,'0000000000200000   差圧　SPAN 範囲外,megatitle
+4614,'メモリ　１００％,megatitle
+4615,'---------- 図面には無いが、クリアする。,megatitle
+4616,'Master用カプセルNo分解,megatitle
+4617,"""."", """"))) > 32000 Then Msg$ = ""客先指定0％>32000""",megatitle
+4618,'レンジタイプ,megatitle
+4619,"""スタート前のCALREV= """,megatitle
+4620,"""客先指定の桁は設定不可""",megatitle
+4621,"""J"", CoefkPa, Coefw, CoefBai, CoefHw, CoefHBai, ErrT)   '水柱単位基準温度は4℃固定。""J""",megatitle
+4622,"""ソフトタグNo.""",megatitle
+4623,"""係数""",megatitle
+4624,'---------- Master側 閾値,megatitle
+4625,'出力モ－ド,megatitle
+4626,"""メモリSQRT指定で最小が０でない。""",megatitle
+4627,'0008000000000000   R側deltaT回路故障,megatitle
+4628,"""ＤＭＭ読み込み異常"", vbOKOnly, ""ERROR""",megatitle
+4629,"""ゼロ調ボリュ－ムチェック""",megatitle
+4630,"""荷札取得中．．．""",megatitle
+4631,"""プロセス　コード  """,megatitle
+4632,"""Master MinSpan設定します。""",megatitle
+4633,'LongTagNoセット,megatitle
+4634,"""オーダ""",megatitle
+4635,"""終了時calRev書き込み異常"", vbOKOnly, ""Error""",megatitle
+4636,'ＬＣＤ出力,megatitle
+4637,"""MasterSlave "", intPS * 6 + 1, 6) & "" SP_Min反映異常""",megatitle
+4638,'Slave 用,megatitle
+4639,'20byte一度に読み込み,megatitle
+4640,"""P計番""",megatitle
+4641,"""最終 Slave　Calrev　""",megatitle
+4642,'---------- MinSPan設定無しモードは無効となる,megatitle
+4643,"'---------- CalRevに""I""をセット",megatitle
+4644,'レンジ　係数,megatitle
+4645,'計番,megatitle
+4646,"""海外向けか国内向けか判断つかず""",megatitle
+4647,'レンジ　１００％,megatitle
+4648,"""コピーチェック Capsule""",megatitle
+4649,""""" Then Msg$ = ""DispPoint 100%異常""",megatitle
+4650,"""リミット""",megatitle
+4651,'表示モ－ド,megatitle
+4652,'客先指定の桁数,megatitle
+4653,'％表示モ－ド,megatitle
+4654,'---------- カプセNoルのレンジコード,megatitle
+4655,'Input ; Process$;工程記号   設定された記号の大文字、小文字を消してから記号を記入する。,megatitle
+4656,'MSコ－ド 1,megatitle
