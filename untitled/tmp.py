@@ -5,9 +5,9 @@ import sqlite3
 import requests
 
 #global findALL
-Path = 'C:\\Users\\Jeggy\\Desktop\\Crcx160415_Rev4.13\\'
-con1 = '\".*\"|\'.*'
-con2 = '[一-龯ぁ-んァ-ンぁ-ゔゞァ-・ヽヾ゛゜ーバ－コﾘﾄﾗｲﾌｸﾞ]\w*'
+#Path = 'C:\\Users\\Jeggy\\Desktop\\Crcx160415_Rev4.13\\'
+#con1 = '\".*\"|\'.*'
+#con2 = '[一-龯ぁ-んァ-ンぁ-ゔゞァ-・ヽヾ゛゜ーバ－コﾘﾄﾗｲﾌｸﾞ]\w*'
 # |\'[一-龯ぁ-んァ-ン]'
 
 def translateFunction(Path, con1, con2):
@@ -145,7 +145,7 @@ def translateFunction(Path, con1, con2):
         a = a + 1
     return (print (BaseException))
 
-translateFunction(Path, con1, con2)
+
 
 def writeToDatabase(nameDatabase):
     l = allItem[0].__len__()
